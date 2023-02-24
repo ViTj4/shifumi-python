@@ -2,6 +2,7 @@ import socket
 import random
 import threading
 
+
 # Fonction qui gère une partie du jeu
 def play_game(conn, addr):
     # Demande le nom du client
